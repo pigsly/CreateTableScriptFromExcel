@@ -6,4 +6,4 @@ The excel can generate
 - constraint script.
 - primary key and foreign key.
 
-This version only for oracle.
+This first version only for oracle 
